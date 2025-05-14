@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+startup_comparison_results.txt
+*.log
+
+# Bash history or temporary
+*.swp
+*.bak
+*.tmp
